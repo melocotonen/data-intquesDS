@@ -2,7 +2,7 @@
 
 # Instrucciones
 
-Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo una hora y media ). Vas a necesitar Python instalado con Jupyter. En caso de que no dispongas de él te recomendamos usar Jupyter Lab.(https://jupyter.org/try-jupyter/lab/)
+Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo una hora y media ). Vas a necesitar Python instalado con Jupyter. En caso de que no dispongas de él te recomendamos usar nuestro Google Colab.(https://colab.research.google.com/drive/12s8fBPMdLTIjatdTsSWoH4piDPbTLdO1)
 
 ## Preguntas sobre SQL
 
