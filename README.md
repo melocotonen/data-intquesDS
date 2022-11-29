@@ -2,7 +2,9 @@
 
 # Instrucciones
 
-Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo una hora y media ). Vas a necesitar Python instalado con Jupyter. En caso de que no dispongas de él te recomendamos usar nuestro Google Colab.(https://colab.research.google.com/drive/12s8fBPMdLTIjatdTsSWoH4piDPbTLdO1)
+Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo una hora y media ). Vas a necesitar Python instalado con Jupyter. En caso de que no dispongas de él te recomendamos usar nuestro notebook (se encuentra dentro de la carpeta notebook) en Google Colab.(https://colab.research.google.com/?hl=es)
+
+Cuando abras Google Colab podrás seleccionar nuestro github y abrirlo desde ahí.
 
 ## Preguntas sobre SQL
 
