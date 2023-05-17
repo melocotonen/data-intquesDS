@@ -1,4 +1,4 @@
-<img src="img/logo_e.png" />
+<img src="img/EugenePnk.png" />
 
 # Instrucciones
 
